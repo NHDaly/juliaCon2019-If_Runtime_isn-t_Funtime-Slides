@@ -1,6 +1,7 @@
 # JuliaCon2019 Talk "If Runtime isn't Funtime: Controlling Compile-time Execution"
 
 This repository hosts the slides from my talk at JuliaCon 2019.
+<br>This presentation was given as a Software Engineer at [RelationalAI](http://relational.ai).
 
 Watch it on YouTube, here:
 <br>https://www.youtube.com/watch?v=JCFej--XER0
